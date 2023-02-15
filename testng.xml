@@ -7,5 +7,6 @@
         <classes>
         	<class name="sample.PriorityTest"></class>
         </classes>
+        
     </test>
 </suite>
